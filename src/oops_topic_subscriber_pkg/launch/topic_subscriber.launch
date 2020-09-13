@@ -1,0 +1,5 @@
+<launch>
+    <!-- This course is painful. -->
+    <node pkg="topic_subscriber_pkg" type="simple" name="ObiWan"  output="screen">
+    </node>
+</launch>
